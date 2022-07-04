@@ -9,6 +9,7 @@ Include a link to your new GitHub repo in your project’s README file so people
 If this is a brand new repo, clone it to your local machine and start working:
 
 $ git clone https://github.com/albarey33/projectpython001
+https://github.com/albarey33/First_Python_code
 
 ######'''
 ######Or, if you already have a project Git repo, add your new GitHub repo as a remote:
